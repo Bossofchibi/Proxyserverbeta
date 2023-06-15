@@ -9,4 +9,4 @@ for (let index = 0; index < array.length; index++) {
 }
 })
 
-app.listen(8080, ()=>console.log("Proxy is Listening on 8080"))
+app.listen(8080, ()=>console.log("Listening on 8080"))
